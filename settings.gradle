@@ -1,0 +1,3 @@
+rootProject.name='Leecode_train'
+//include ':app'
+include ':leetcode'
